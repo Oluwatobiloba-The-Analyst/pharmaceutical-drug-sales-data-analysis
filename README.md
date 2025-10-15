@@ -78,7 +78,7 @@ Key exploration steps included:
 ## 🔍 Key Insights
 
 - **High-volume, low-revenue mismatch:**  
-  Some drugs like *Escitalopram, Senna, Oxycodone, Trazodone, Polyethylene Glycol, Simvastatin,* and *Enalapril* had high sales volumes but generated relatively low revenue. This suggests a possible price-volume imbalance, pointing to opportunities for **pricing review** and **margin optimization**. But it is important to note that the review should be done with consideration of the actual cost price of the drugs since high-volume sales don’t always translate to high revenue all the time.
+  Some drugs like *Escitalopram, Senna, Oxycodone, Trazodone, Polyethylene Glycol, Simvastatin,* and *Enalapril* had high sales volumes but generated relatively low revenue. This suggests a possible price-volume imbalance, pointing to opportunities for **pricing review** and **margin optimization**. However, it is important to note that the review should take into account the actual cost price of the drugs, as high sales volumes do not always translate into high revenue.
 
 - **Underperforming drug products:**  
 Drugs like *dorzolamide* and *bupropion* performed poorly in both quantity and revenue, signaling possible *inefficiencies in product portfolio*, *tying up of inventory* and *potential effect on profitability*. This present an opportunity for *product re-evaluation*, *portfolio optimization* either through *promotional boosts* or *possible discontinuation*. 
